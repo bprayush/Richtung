@@ -1,4 +1,4 @@
-package com.example.richtung
+package com.bugthedebugger.richtung
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
